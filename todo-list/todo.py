@@ -74,7 +74,6 @@ def delete_task(tasks, completed):
         for i in range(len(tasks)):
             print(f"{i} -> {tasks[i]}")
 
-
         ans = int(input("Which task you wanna remove? "))
 
         if ans in range(len(tasks)):
