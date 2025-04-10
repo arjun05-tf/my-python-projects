@@ -28,7 +28,7 @@ A simple terminal-based currency converter built using beginner-friendly Python 
 4. Example Output
 
 ```bash
-python main.py
+python currency_converter.py
 
 1. INR
 2. USD
